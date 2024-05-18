@@ -42,7 +42,7 @@ books.getAuthor = function(isbn) {
 }
 
 books.getTitle = function(isbn, lang) {
-
+  
 }
 
 books.getTranslator = function(isbn, lang) {
